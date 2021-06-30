@@ -5,6 +5,6 @@ void uva113(){
 }	
 
 int main() {
-    uva113();
+    uva193();
     return 0;
 }
